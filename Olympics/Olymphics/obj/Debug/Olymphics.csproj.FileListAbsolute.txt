@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Olymphics\Olymphics\bin\Debug\Olymphics.exe.config
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Olymphics\Olymphics\bin\Debug\Olymphics.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Olymphics\Olymphics\bin\Debug\Olymphics.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Olymphics\Olymphics\obj\Debug\Olymphics.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Olymphics\Olymphics\obj\Debug\Olymphics.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Olymphics\Olymphics\obj\Debug\Olymphics.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Olymphics\Olymphics\obj\Debug\Olymphics.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\Olymphics\Olymphics\obj\Debug\Olymphics.pdb
